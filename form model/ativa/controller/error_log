@@ -1,0 +1,12 @@
+[06-Oct-2023 23:03:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: locationSA in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 19
+[06-Oct-2023 23:03:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: prosName in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 24
+[06-Oct-2023 23:03:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: prosNum in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 25
+[06-Oct-2023 23:03:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: locationSA in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 26
+[06-Oct-2023 23:03:41 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: locationSA in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 69
+[06-Oct-2023 23:03:41 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php:19) in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 99
+[15-Dec-2023 08:21:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: locationSA in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 19
+[15-Dec-2023 08:21:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: prosName in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 24
+[15-Dec-2023 08:21:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: prosNum in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 25
+[15-Dec-2023 08:21:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: locationSA in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 26
+[15-Dec-2023 08:21:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: locationSA in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 69
+[15-Dec-2023 08:21:38 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php:19) in /home/peroduamy/public_html/prospek.perodua.my/ativa/controller/process_form.php on line 99
