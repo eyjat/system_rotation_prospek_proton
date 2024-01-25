@@ -31,6 +31,7 @@
         <img src="/pic/model/irizlogo.png" alt="Iriz Logo" class="w-48 mx-auto mb-10"> <!--model logo-->
         <form action="controller/process_form.php" method="post">
             <label for="locationSA" class="block mb-2">Location :</label>
+            <!--dropdown selection for location prospect-->
             <select name="locationSA" id="location" class="w-full p-2 border rounded" required>
                     <option value="" disabled selected>Select a state</option>
                     <option value="Johor">Johor</option>
